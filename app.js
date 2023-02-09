@@ -72,7 +72,7 @@ let webDevCards = [];
 let webDevDiv = document.querySelector(".webDevCards")
 
 
-    createCard(webDevCards, ["HTML", "CSS"], "responsive-website_desktop1024.png", 
+    createCard(webDevCards, ["HTML", "CSS"], "responsive-website_desktop1024 copy.png", 
     "https://PakChiTang.github.io/mytechdegreeproject2/", 
     "Using CSS and media queries, I made a site that is responsive for three different screen sizes (mobile, tablet and desktop).", 
     "Screenshot of Responsive design project", "Responsive design project");
@@ -82,7 +82,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     "Using Sass to create an awesome styled site", 
     "Screenshot of Sass Styling project", "Sass styling project");
     
-    createCard(webDevCards,["HTML", "CSS", "Javascript"], "photogallery.PNG", 
+    createCard(webDevCards,["HTML", "CSS", "Javascript"], "gallery_mockup copy.png", 
     "https://PakChiTang.github.io/techdegreeproject5/", 
     "In this project we had to implement an existing javascript feature called 'baguetteBox'.I also wrote Javascript code to make a custom search bar.", 
     "Screenshot of Photo gallery project", "Photo gallery project");
@@ -97,7 +97,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     "Writing lots of CSS and using Javascript to make the page function like a dashboard", 
     "screenshot of the WebApp project", "WebApp project"); 
 
-    createCard(webDevCards,["HTML", "CSS", "Javascript"], "startuplibrary.PNG", 
+    createCard(webDevCards,["HTML", "CSS", "Javascript"], "employee_directory copy.PNG", 
     "https://PakChiTang.github.io/techdegreeproject8/", 
     "I made this employee directory with Javascript. The directory is filled with random users, which are fetched from an API, and then displayed on the site. ", 
     "screenshot of the API project", "Using an API to build a page"); 
