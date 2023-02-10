@@ -77,7 +77,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     "Using CSS and media queries, I made a site that is responsive for three different screen sizes (mobile, tablet and desktop).", 
     "Screenshot of Responsive design project", "Responsive design project");
 
-    createCard(webDevCards, ["CSS", "SASS"], "sass.PNG", 
+    createCard(webDevCards, ["CSS", "SASS"], "sass.png", 
     "https://pakchitang.github.io/Techdegreeproject4/Techdegreeproject4/index.html", 
     "Using Sass to create an awesome styled site", 
     "Screenshot of Sass Styling project", "Sass styling project");
@@ -87,12 +87,12 @@ let webDevDiv = document.querySelector(".webDevCards")
     "In this project we had to implement an existing javascript feature called 'baguetteBox'.I also wrote Javascript code to make a custom search bar.", 
     "Screenshot of Photo gallery project", "Photo gallery project");
     
-    createCard(webDevCards,["HTML", "CSS", "Javascript"], "wheelofsuccess.PNG", 
+    createCard(webDevCards,["HTML", "CSS", "Javascript"], "wheelofsuccess.png", 
     "https://PakChiTang.github.io/techdegreeproject6/",
     "For this project I used Javascript to build a working guessing game, called Wheel of Success",
     "Screenshot of Wheel of Success project", "Wheel of Success");
     
-    createCard(webDevCards,["HTML", "CSS", "Javascript"], "webapp.PNG", 
+    createCard(webDevCards,["HTML", "CSS", "Javascript"], "webapp.png", 
     "https://PakChiTang.github.io/techdegreeproject7/", 
     "Writing lots of CSS and using Javascript to make the page function like a dashboard", 
     "screenshot of the WebApp project", "WebApp project"); 
