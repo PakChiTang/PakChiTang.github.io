@@ -78,7 +78,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     "Screenshot of Responsive design project", "Responsive design project");
 
     createCard(webDevCards, ["CSS", "SASS"], "sass.png", 
-    "https://PakChiTang.github.io/Techdegreeproject4/Techdegreeproject4/style_guide_v7/index.html", 
+    "https://PakChiTang.github.io/Techdegreeproject4/Techdegreeproject4/style_guide_v7/resources/index.html", 
     "Using Sass to create an awesome styled site", 
     "Screenshot of Sass Styling project", "Sass styling project");
     
