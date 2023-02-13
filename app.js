@@ -1,4 +1,3 @@
-
 //create socials 
 const socialSection = document.querySelector(".socials");
 const socialList = ["instagram", "linkedin", "twitter"];
@@ -151,5 +150,3 @@ function reveal(){
         }
     }
 }
-
-//credit for scroll reveal: https://www.youtube.com/watch?v=VplDlwLTR50&t=541s
