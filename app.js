@@ -73,32 +73,32 @@ let webDevDiv = document.querySelector(".webDevCards")
 
     createCard(webDevCards, ["HTML", "CSS"], "responsive-website_desktop1024 copy.png", 
     "https://PakChiTang.github.io/mytechdegreeproject2/", 
-    "Using CSS and media queries, I made a site that is responsive for three different screen sizes (mobile, tablet and desktop).", 
+    "I made a site using CSS and media queries that is responsive for three different screen sizes (desktop, mobile and tablet).", 
     "Screenshot of Responsive design project", "Responsive design project");
 
     createCard(webDevCards, ["CSS", "SASS"], "sass.png", 
     "https://PakChiTang.github.io/Techdegreeproject4/style_guide_v7/resources/", 
-    "Using Sass to create an awesome styled site", 
+    "Create an awesome site styled with Sass", 
     "Screenshot of Sass Styling project", "Sass styling project");
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "gallery_mockup copy.png", 
     "https://PakChiTang.github.io/techdegreeproject5/", 
-    "In this project we had to implement an existing javascript feature called 'baguetteBox'.I also wrote Javascript code to make a custom search bar.", 
+    "I implemented an existing JavaScript feature called 'baguetteBox' for this project. I also utilized JavaScript code to make a custom search bar.", 
     "Screenshot of Photo gallery project", "Photo gallery project");
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "wheelofsuccess.png", 
     "https://PakChiTang.github.io/techdegreeproject6/game_show_app_v1.2/index.html",
-    "For this project I used Javascript to build a working guessing game, called Wheel of Success",
+    "I used Javascript to build Wheel of Success, a word guessing game.",
     "Screenshot of Wheel of Success project", "Wheel of Success");
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "dashboard copy.png", 
     "https://PakChiTang.github.io/techdegreeproject7/", 
-    "Writing lots of CSS and using Javascript to make the page function like a dashboard", 
+    "Make my page function like a dashboard by using tons of CSS and JavaScript", 
     "screenshot of the WebApp project", "WebApp project"); 
 
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "employee_directory copy.png", 
     "https://PakChiTang.github.io/techdegreeproject8/", 
-    "I made this employee directory with Javascript. The directory is filled with random users, which are fetched from an API, and then displayed on the site. ", 
+    "I used JavaScript in making this employee directory. It's filled with random users that are fetched from an API and later displayed on the site. ", 
     "screenshot of the API project", "Using an API to build a page"); 
     
     
