@@ -32,7 +32,7 @@ header{
     
 h1{
     padding: 10px;
-    color: rgb(63, 63, 63);
+    color: rgb(63, 62, 61);
     background-color:rgba(245, 245, 245, 0.6);
     border-radius: 5px;
 }
@@ -49,7 +49,7 @@ h2{
 }
 
 .roles h2{
-    background-color: rgb(23, 195, 178);
+    background-color: rgb(24, 196, 179);
     margin: 5px;
     font-size: 16px; 
     font-weight: 400;
@@ -62,7 +62,7 @@ h2{
 nav{
     grid-area: nav;
     padding: 8px;
-    background-color: #777777;
+    background-color: #888888;
     position: fixed; 
     height: 60px;;
     width: 100%;
@@ -83,7 +83,7 @@ nav li{
     flex-basis: 20%;
        
     text-align: center;
-    transition: all ease-in-out 0.3s;
+    transition: all ease-in-out 0.4s;
 }
 
 nav li a{
@@ -92,7 +92,7 @@ nav li a{
 }
 
 nav li a:hover{
-    background-color:  rgb(158, 158, 158);
+    background-color:  rgb(157, 159, 158);
     border-radius: 5px;
     padding: 10px 20px; 
 }
@@ -111,13 +111,13 @@ a{
 /* main section styling */
 main{
     grid-area: main;
-    background-color: #e7e7e7;
+    background-color: #e6e7e8;
   }
 
 footer{
     grid-area: footer;
     text-align: center;
-    background-color: #2e2e2e;
+    background-color: #2e3e4e;
     color: #FFF;
     padding: 20px;
 }
@@ -132,7 +132,7 @@ section{
 }
 
 section h2{
-    background-color: rgba(245, 245, 245, 0.9);    
+    background-color: rgba(244, 245, 246, 0.9);    
     border-radius: 5px 5px 0px 0px;
     width: 98%;
     align-self: center;
@@ -152,7 +152,7 @@ section h2{
     padding: 20px;
     text-align: center;
     border-radius: 5px 0px;
-    box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #666;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -176,7 +176,7 @@ section h2{
 
 
 .project-button{
-    background-color:rgb(23, 195, 178); 
+    background-color:rgb(22, 194, 177); 
     color: #FFF;
     padding: 8px;
     margin: 5px;
@@ -202,7 +202,7 @@ section h2{
      
     width: 50px;
     height: 50px;
-    background-color: rgb(12, 109, 99);
+    background-color: rgb(11, 108, 98);
     border-radius: 50%;
     padding: 10px; 
     border: 5px;
@@ -225,7 +225,7 @@ section h2{
 }
 
 .languages li{
-    background-color:rgb(23, 195, 178); 
+    background-color:rgb(25, 195, 185); 
     padding: 8px;
     margin: 5px;
     border-radius: 5px;
